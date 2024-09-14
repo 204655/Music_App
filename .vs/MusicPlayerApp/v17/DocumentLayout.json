@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Downloads\\simple-music-player-app-in-c-sharp-master\\",
+  "WorkspaceRootPath": "F:\\Coding\\Music_player\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{83882776-45ED-4777-A0C9-011FCA8DBC55}|MusicPlayerApp\\MusicPlayerApp.csproj|c:\\users\\lenovo\\downloads\\simple-music-player-app-in-c-sharp-master\\musicplayerapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -19,10 +19,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\simple-music-player-app-in-c-sharp-master\\MusicPlayerApp\\Form1.cs",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\Coding\\Music_player\\MusicPlayerApp\\Form1.cs",
               "RelativeDocumentMoniker": "MusicPlayerApp\\Form1.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\simple-music-player-app-in-c-sharp-master\\MusicPlayerApp\\Form1.cs [Design]",
+              "ToolTip": "F:\\Coding\\Music_player\\MusicPlayerApp\\Form1.cs",
+              "RelativeToolTip": "MusicPlayerApp\\Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T06:42:31.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\Coding\\Music_player\\MusicPlayerApp\\Form1.cs",
+              "RelativeDocumentMoniker": "MusicPlayerApp\\Form1.cs",
+              "ToolTip": "F:\\Coding\\Music_player\\MusicPlayerApp\\Form1.cs [Design]",
               "RelativeToolTip": "MusicPlayerApp\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-12T03:35:20.512Z",
