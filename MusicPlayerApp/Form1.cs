@@ -42,16 +42,16 @@ namespace MusicPlayerApp
         {
             int selectedIndex = listBoxSongs.SelectedIndex;
 
-            // Ensure the selected index is valid before accessing the paths array
-            if (selectedIndex >= 0 && selectedIndex < paths.Length)
-            {
-                axWindowsMediaPlayerMusic.URL = paths[selectedIndex];
-            }
-            else
-            {
-                // Optional: Handle the case where the index is invalid
-                MessageBox.Show("Invalid song selection or no song loaded.");
-            }
+    // Ensure the selected index is valid before accessing the paths array
+    if (selectedIndex >= 0 && selectedIndex < paths.Length)
+    {
+        axWindowsMediaPlayerMusic.URL = paths[selectedIndex];
+    }
+    else
+    {
+        // Optional: Handle the case where the index is invalid
+        MessageBox.Show("Invalid song selection or no song loaded.");
+    }
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
